@@ -1,0 +1,398 @@
+[
+  {
+    "shot": "S01",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Rain falls harder; the sea heaves in long slow swells; the cyan light inside the carved grooves pulses gently. The camera keeps drifting forward over the water.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 5.0
+  },
+  {
+    "shot": "S02",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The enormous fish-shaped mass glides slowly past from left to right, its outline seams brightening as it passes; motes of light swirl in its wake. The camera tilts down to follow it.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 3.087
+  },
+  {
+    "shot": "S03",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The scales' seams pulse once, slowly, from front to back; the great eye rolls a few degrees toward the camera; water streams over the plates. The camera pushes in slightly.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 1.653
+  },
+  {
+    "shot": "S04",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The rising bulk breaks fully free of the water and its body opens outward into two immense wings that unfold across the whole sky; the wall of water collapses back into the sea beneath it. The camera cranes upward to hold the wingspan.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 5.0
+  },
+  {
+    "shot": "S05",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The immense wings beat once, slowly and heavily; the shadow sweeps across the mountain ridge; torn cloud streams off the trailing edges. The camera pans right to follow.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 5.0
+  },
+  {
+    "shot": "S06",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The wall of thrown water races outward along the horizon and the torn spray streams away southward; the sea beneath boils white. The camera tracks sideways with the moving wall of water.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 5.0
+  },
+  {
+    "shot": "S07",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The bird continues its slow upward spiral; the cloud floor rolls and shears beneath it; the distant woman's robe and hair lift in the wind. The camera rises slowly.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 6,
+      "resolution": "2K"
+    },
+    "design_duration_s": 6.32
+  },
+  {
+    "shot": "S08",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The wind gusts harder; his robe and hair whip sideways; the distant bird slides further toward the horizon; he turns his head a few degrees to keep it in view. The camera pushes in slowly past his shoulder.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 6,
+      "resolution": "2K"
+    },
+    "design_duration_s": 5.68
+  },
+  {
+    "shot": "S09",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "He finishes rolling the bundle and ties the cord; the lamp flame wavers and the shadows shift across the table; rain runs off the eaves outside the doorway. The camera drifts slowly to the left.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 7,
+      "resolution": "2K"
+    },
+    "design_duration_s": 6.31
+  },
+  {
+    "shot": "S10",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The cicada's wings buzz and rattle; the dove bobs its head twice and shuffles along the branch; leaves shake around them. The camera drifts slowly right.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 5.0
+  },
+  {
+    "shot": "S11",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The dove clips the branch, tumbles, and drops to the packed earth, landing badly and folding its wings; leaves fall after it. The camera tilts down to follow it to the ground.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 5.0
+  },
+  {
+    "shot": "S12",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The traveller walks steadily away, the huge load swaying with each step; dust drifts across the track; the cloud ceiling moves. The camera slowly cranes up and back.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 4.387
+  },
+  {
+    "shot": "S13",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "He completes his turn and walks back toward the village; the millet moves in the wind; smoke rises from a roof behind. The camera pans left with him.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 2.463
+  },
+  {
+    "shot": "S14",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The light warms and swings across as the sun climbs; the beads of water shrink away and the cap edge curls and darkens. The camera creeps slowly closer.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 3.11
+  },
+  {
+    "shot": "S15",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "A gust moves the twig; the cicada's grip slackens and its wings sag open; the green leaves behind stir. The camera drifts slightly around it.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 3.11
+  },
+  {
+    "shot": "S16",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "One cyan ring seam lights up and travels outward through the bark to the next ring, then fades; mist moves between the roots. The camera cranes slowly upward along the trunk.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 2.547
+  },
+  {
+    "shot": "S17",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Cloud drags across the crown and tears open; a slow pulse of cyan light climbs the trunk from the roots into the cloud. The camera pushes in very slowly.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 2.653
+  },
+  {
+    "shot": "S18",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The sparrow skims across the frame and drops out of sight into the scrub; the weeds swing where it passed; his robe stirs and he turns his head to follow it. The camera pans right with the bird.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 13,
+      "resolution": "2K"
+    },
+    "design_duration_s": 12.39
+  },
+  {
+    "shot": "S19",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Both crowds press closer and gesture harder, robes and sleeves swinging; the man in the centre stands perfectly still throughout. The camera arcs slowly around him.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 2.91
+  },
+  {
+    "shot": "S20",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The vapour sheets under his feet slide and re-form and he glides forward across the frame; his sleeves and hem snap in the wind. The camera tracks alongside him.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 2.293
+  },
+  {
+    "shot": "S21",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Nothing moves but a single thin line of dust that lifts, travels a short way, and settles again; his robe stays completely still. The camera pulls back slowly.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 2.407
+  },
+  {
+    "shot": "S22",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The older man extends the bronze tally further and his sleeves fall back; cloud spills over the balustrade behind them; the seams in the stone brighten. The camera pushes in slowly between them.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 1.78
+  },
+  {
+    "shot": "S23",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "He completes the turn and takes the first step down; the older man's arms slowly lower; wind drags cloud across the terrace behind them. The camera holds and lets him walk out of frame left.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 1.78
+  },
+  {
+    "shot": "S24",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The small bird settles deeper into the nest and turns once; the branch dips slightly and the leaves behind it drift. The camera pulls back steadily to reveal more forest.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 4,
+      "resolution": "2K"
+    },
+    "design_duration_s": 2.26
+  },
+  {
+    "shot": "S25",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The mole-rat drinks, lifts its head, and turns back up the bank away from the water; the river keeps running hard behind it. The camera tilts up from the animal to the far bank.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 4,
+      "resolution": "2K"
+    },
+    "design_duration_s": 2.26
+  },
+  {
+    "shot": "S26",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Her very long hair and the trailing sleeves lift and drift in the thin wind; snow streams off the ridge edge in front of her; the cloud sea below rolls slowly. The camera pushes in slowly.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 9,
+      "resolution": "2K"
+    },
+    "design_duration_s": 8.07
+  },
+  {
+    "shot": "S27",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The dragon's body undulates and drives forward through the cloud; her robe and hair stream back; the cloud sea tears past beneath them. The camera tracks alongside at speed.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 15,
+      "resolution": "2K"
+    },
+    "design_duration_s": 14.59
+  },
+  {
+    "shot": "S28",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The split widens and the water runs out faster; his arms sag under the weight and he shifts his grip; the wet patch spreads across the earth. The camera pushes in slightly.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 2.895
+  },
+  {
+    "shot": "S29",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The stout man gestures at the halves and lets his hands drop; a little rainwater slides across the inside of one bowl; the other man crouches down toward it. The camera arcs slowly to the left.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 2.895
+  },
+  {
+    "shot": "S30",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "He stays flat on his back the whole time, body and legs level with the surface. The current turns him slowly and carries him downstream; ripples spread out from under him; the far cloud bank drifts. The camera rises and pulls back.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 6,
+      "resolution": "2K"
+    },
+    "design_duration_s": 5.25
+  },
+  {
+    "shot": "S31",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "He jabs his pointing hand twice at the trunk and lets it fall; the crooked branches move in the wind; weeds sway across the rubble. The camera drifts slowly right along the trunk.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 1.85
+  },
+  {
+    "shot": "S32",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "He walks steadily past and out of frame right with his gaze fixed down the road; the axe sways on his shoulder; the crooked branches move behind him. The camera tracks with him and then holds on the tree.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 1.85
+  },
+  {
+    "shot": "S33",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Wind combs long waves across the grass toward the tree and the crooked branches answer; the cloud shadow slides over the plain. The camera cranes slowly up and back.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 5,
+      "resolution": "2K"
+    },
+    "design_duration_s": 2.27
+  },
+  {
+    "shot": "S34",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "He strolls a few paces along the trunk and turns unhurriedly back the other way; grass brushes his hem; the low sun rakes across him. The camera arcs slowly around the trunk with him.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 6,
+      "resolution": "2K"
+    },
+    "design_duration_s": 4.98
+  },
+  {
+    "shot": "S35",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "His chest rises and falls slowly; leaves drift down through the frame; her sleeves and hair move in the evening air. The camera drifts in very slowly and low.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 7,
+      "resolution": "2K"
+    },
+    "design_duration_s": 5.48
+  },
+  {
+    "shot": "S36",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The immense bird crosses slowly toward frame right; the grass moves in long waves below; the light drops another stop. The camera holds still and lets the bird traverse.",
+      "first_frame_image": "<uploaded keyframe public_url>",
+      "duration": 10,
+      "resolution": "2K"
+    },
+    "design_duration_s": 9.25
+  }
+]

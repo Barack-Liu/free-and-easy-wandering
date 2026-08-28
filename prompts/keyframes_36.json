@@ -1,0 +1,398 @@
+[
+  {
+    "shot": "S01",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "A vast black ocean at night seen from a high clifftop, heavy rain falling straight down. Half-sunken stone gateposts carved with cloud-scroll relief stand in the shallows, their carved grooves lit from within by thin cyan light. The water surface is matte and unbroken. Wide establishing shot, camera low and drifting slowly forward. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S02",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Underwater, deep down in black water lit only by drifting motes of cyan light. An enormous fish-shaped mass moves through the depth far below, its silhouette outlined in cold cyan seams. Its scale dwarfs the frame. Wide underwater shot looking down. Its plating reads as dark bronze cast with cloud-and-thunder relief. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S03",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Close on the head of the immense fish underwater: each scale is a dark polished plate with a hairline cyan seam around its edge, water sliding over them. A single vast eye at frame right, dark and wet. Macro detail, shallow depth of field. Each plate is dark bronze cast with fine cloud-and-thunder relief at its rim. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S04",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "A colossal fish, its body plated like dark bronze, is rising clear of a black sea at night and fills the centre of the frame from edge to edge, its head already high above the waterline and water pouring off its flanks. The sea it came out of is a torn wall of white water around it. The horizon behind is a thin line, there only to show how large the fish is. Wide low-angle shot from just above the waterline, the creature occupying roughly three quarters of the picture. The black water is threaded with drifting cyan data-motes that scatter as the mass rises. The rising bulk is plated in dark bronze cast with cloud-and-thunder relief. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S05",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "A colossal bird in flight is the subject of this frame and fills the upper two thirds of the picture from left edge to right edge: outstretched wings of dark bronze plating, head forward, tail trailing off frame. Its wingspan reads like a low bank of storm cloud. Far below it, reduced to a thin strip along the bottom of the frame, lie a mountain ridge and a black sea, both crossed by the bird's shadow. Extreme wide shot from a low horizon, the bird occupying roughly two thirds of the picture. Vast cyan circuit veins run along the underside of the wings, faint as distant streetlight. The wing plates are dark bronze cast with coiled-dragon relief along their leading edge. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S06",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The great wing strikes the sea: a long straight wall of white water is thrown up along the horizon, spray and mist tearing away southward in a single direction. Wide shot at sea level, the wing filling the top of frame. Where the wing meets the sea the water flashes cyan along the whole line of impact. The wing's underside is dark bronze cast with coiled-dragon relief. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S07",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Above a floor of white cloud in clean blue-black upper air. The immense dark bird spirals upward in the middle distance, the cloud floor far below it. On a separate cloud bank at frame left stands a small distant figure, the same young woman from the reference images: early twenties, snow-pale skin, very long loose black hair, floor-length ice-white silk robe edged with frost-cyan light, barefoot, seen in full length and side-on, watching the bird. She is tiny in the frame, correctly scaled against the cloud. Extreme wide shot. Far below, the cloud floor is lit from beneath by a slow cyan grid, like a city seen through fog. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S08",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "On a wet black clifftop in strong wind, the same young man from the reference images: mid-twenties, clean-shaven, long black hair in a topknot, floor-length slate-grey cross-collar robe with thin cyan circuit lines along the seams, seen from behind his left shoulder in three-quarter rear view, head tilted back to look up. Far above and ahead of him the immense dark bird is turning south, small with distance. His robe and hair are pulled hard sideways by the wind. Medium wide over-shoulder shot. Below the cliff, drowned gate-towers glow cyan up through the rain. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S09",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Inside a low timber shed among lacquer trees at night, one small vermilion lacquer oil lamp on a plank table. The same young man from the reference images: mid-twenties, clean-shaven, long black hair in a topknot, floor-length slate-grey cross-collar robe with thin cyan circuit lines along the seams sits in three-quarter profile at the table, both hands rolling a bundle of narrow bamboo slips closed; the rolled bundle is bound with cord, its round end facing the camera so only the cut ends of the bamboo show. A bronze stylus lies beside his hand. Vermilion key from the lamp, cold cyan spill through the doorway. Medium close shot. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S10",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "High in an elm canopy in grey daylight. On a branch sit a cicada and a turtle dove, both part living creature and part small worn machine: chitin plates over dull metal, a single cyan lens where each eye should be, fine wire tendons at the joints. They are turned toward each other. Close shot, leaves filling the background. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S11",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Low angle under the elm. The machine-dove is a few metres up in mid-air, wings open, having just clipped a branch; loose leaves hang in the air around it. Bare packed earth below. Wide low shot, grey flat light. A hairline of cyan light runs in the bark of the branch it clipped. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S12",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "An empty ochre plain under low grey cloud. A single traveller walks away from camera along a faint track, bent under an enormous bundle of grain sacks strapped to a wooden frame taller than he is. He is small in the frame. Extreme wide shot from behind. Beside the track a toppled bronze route-marker lies half-buried, its inlaid cloud pattern still lit cyan from within. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S13",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "A dirt road between low millet fields in the afternoon. A traveller in a short hemp coat is turning back toward camera-left, a small cloth bundle at his hip; his own village roofs are close behind him. Medium wide shot, three-quarter rear view. At the field's edge a low stone shrine carries a vermilion lacquer door and a thread of cyan light in its cracked lintel. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S14",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Macro shot into a damp crack in grey stone at dawn: a single pale mushroom has pushed up out of the moss, its cap still beaded with water, edge-lit by low cold light. Extreme shallow depth of field. The stone it grows from is a broken bronze panel, cyan tracery still alive inside the fracture. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S15",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Macro shot of a cicada gripping a bare grey twig, wings folded and dull, legs locked. The tree behind it is still in full green summer leaf, thrown far out of focus. Cold overcast light. The twig is lashed to a fractured bronze chime bell with one cyan filament still lit inside it. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S16",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "The base of a colossal tree at dusk, so wide that its trunk fills the whole frame and its bark is scored with concentric growth rings; every few rings a cyan seam runs through the wood like a vein. Roots the size of buildings. Wide low-angle shot. Bronze bands cast with cloud relief are sunk into the bark between the rings. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S17",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "An even more colossal tree seen from a distance across a plain at dusk, its crown continuing straight up into the cloud ceiling and out of sight. Its scale makes the forest at its feet look like grass. Extreme wide shot. A slow cyan pulse climbs the trunk from the roots and disappears into the cloud. Bronze bands cast with cloud relief ring the trunk at its base. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S18",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Waist-high scrub and weeds at the edge of the lacquer grove, flat grey afternoon light. A small machine-sparrow skims low over the scrub at frame right, barely a metre off the ground. At frame left the same young man from the reference images: mid-twenties, clean-shaven, long black hair in a topknot, floor-length slate-grey cross-collar robe with thin cyan circuit lines along the seams stands in three-quarter profile among the weeds, a closed and corded bundle of bamboo slips held down at his side, watching the bird go. Medium wide two-part composition. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S19",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "A crowded market square under a stone platform, overcast. A man in a plain dark robe stands still at the centre in three-quarter profile, hands at his sides, face expressionless. On his left a knot of people lean toward him with raised hands and open mouths; on his right another knot leans in shouting, faces angry. Everyone is scaled naturally and scattered at uneven distances and angles, some half-turned away. Medium wide shot. Cyan light strips run along the platform's bronze balustrade; vermilion cloth banners hang over the crowd. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S20",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "High above a plain at golden hour. A man in a pale grey robe stands upright in mid-air with a cloud floor far below, seen in full length from the side; beneath his feet the wind is visible as thin curved sheets of moving vapour holding him up. His sleeves stream out behind. Wide shot, tiny horizon. The vapour sheets under his feet are shot through with fine cyan filaments. He wears a wide-sleeved cross-collar robe of pale grey silk. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S21",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Flat dry ground at dusk, air completely still. The same man in the pale grey robe stands alone in three-quarter rear view, arms at his sides, robe hanging dead straight. Dust lies undisturbed around his shoes. Wide shot, empty horizon. Behind him a dead bronze wind-mast leans out of the ground, its cyan conduits gone dark. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S22",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "A broad stone terrace above cloud at dawn, its balustrade carved with cloud-scroll relief lit by thin cyan seams. An older man in heavy dark ceremonial robes stands at frame left in three-quarter view, holding out a bronze tally in both hands toward frame right. A second man in a coarse hemp robe stands at frame right, back partly to camera. Both are naturally scaled. Medium wide two-shot. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S23",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Same stone terrace, reverse angle. The man in the coarse hemp robe is now nearest camera in three-quarter rear view, one hand raised palm-out in refusal, already turning away toward the steps. Behind him the older man still holds the bronze tally out, arms still fully extended. Medium shot over the refusing man's shoulder. Cyan light runs in the carved grooves of the balustrade behind them. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S24",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Deep inside an old forest, green-black and endless in every direction. On one thin branch near the centre sits a very small nest with a small brown bird in it, sharply in focus while the whole forest behind falls away soft. The scale contrast is the subject. Medium close shot. One branch is a run of bundled fibre cable sheathed in bark, a hairline of cyan showing through. A broken jade disc lies in the leaf litter below the branch. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S25",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "A wide brown river running fast, seen low from its muddy bank. At the very edge of the water a small mole-rat crouches drinking, tiny against the river. Close low shot, shallow focus on the animal. On the far bank a colossal bronze sluice-gate stands half-drowned, cyan light deep in its seams. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S26",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "A snow summit above a sea of cloud at first light. The same young woman from the reference images: early twenties, snow-pale skin, very long loose black hair, floor-length ice-white silk robe edged with frost-cyan light, barefoot stands at the edge in three-quarter profile, looking out and slightly down across the cloud sea. Her skin reads as pale as the snow behind her. Frost-cyan light runs along the hem and cuffs of her robe. Medium wide shot. The ridge below her is ribbed with vast bronze coils half-buried in the snow, cyan light alive inside them. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S27",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "High above an ocean of cloud at dawn. The same young woman from the reference images: early twenties, snow-pale skin, very long loose black hair, floor-length ice-white silk robe edged with frost-cyan light, barefoot stands upright on a moving raft of cloud vapour, seen in full length from the side. Coiled around and beneath the cloud a long serpentine dragon of dark scale and cyan seam carries her forward, its body passing in and out of the vapour. Extreme wide shot. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S28",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "A walled kitchen garden in flat afternoon light. A stout middle-aged man in a good silk robe stands in three-quarter profile struggling to hold an enormous pale gourd the size of a wine jar in both arms; water is running out of a split in its side and soaking the earth at his feet. Medium wide shot. The garden wall is bronze-faced with coiled-dragon relief, and a vermilion lacquer door stands open behind him. Cyan light seeps from a cracked conduit running along the foot of the garden wall. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S29",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Same walled garden. The enormous gourd now lies split into two shallow bowls on the earth, each far too wide and too shallow to hold anything, a small clay water jar set beside them for scale. The stout man stands at frame right with his hands open in complaint; the same young man from the reference images: mid-twenties, clean-shaven, long black hair in a topknot, floor-length slate-grey cross-collar robe with thin cyan circuit lines along the seams stands at frame left in three-quarter profile looking down at the halves. Both naturally scaled. Medium wide two-shot. The halves rest on black-and-vermilion lacquer matting; the wall's dragon relief glows cyan in its grooves. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S30",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "A wide slow river in late afternoon haze, seen from high above. The same young man from the reference images: mid-twenties, clean-shaven, long black hair in a topknot, floor-length slate-grey cross-collar robe with thin cyan circuit lines along the seams floats on his back in mid-river, face up to the sky with his eyes closed, the enormous gourd lashed under the small of his back with cord so that it holds him up. His arms are spread wide and resting flat on the surface, his legs together and straight, only the tops of his feet breaking the water. His robe fans out around him across the surface. Far away on the opposite bank a small pale figure stands on a bank of low cloud, tiny with distance. Wide high shot looking straight down at a slight angle. Both banks carry drowned bronze towers whose cyan tracery still burns below the water line. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S31",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Among low broken stone ruins overgrown with weeds, overcast. A big ailanthus tree grows crooked out of the rubble, its trunk lumpy and swollen with burls and its branches twisting back on themselves. The stout man in the silk robe stands at frame left in three-quarter profile, one arm out pointing up at the trunk. Medium wide shot. The rubble around its roots is broken bronze plate and conduit, cyan light seeping from the fractures. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S32",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Same crooked ailanthus, closer to the road. A carpenter in a hemp apron walks past along the path at frame front, an axe over his shoulder and a bundle of straight cut poles under his other arm, his face held straight ahead down the road. The crooked tree fills the background behind him. Medium wide tracking composition. His axe head is bronze cast with a thunder pattern, and a dead cyan filament trails from the rubble at his feet. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S33",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "An immense plain of pale grass under an enormous sky at golden hour, the grass unbroken and running clean to the horizon on every side. The single crooked ailanthus stands alone slightly off centre, small against that emptiness. Extreme wide shot. A single toppled bronze stele lies in the grass near the tree, its cloud relief still faintly cyan. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S34",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Beside the lone ailanthus on the empty plain, golden hour. The same young man from the reference images: mid-twenties, clean-shaven, long black hair in a topknot, floor-length slate-grey cross-collar robe with thin cyan circuit lines along the seams walks slowly in the grass near the trunk, seen in full length in three-quarter rear view, hands loose, head turned toward the tree. His scale against the tree is natural. Medium wide shot. Bronze fragments lie scattered in the grass, cyan light breathing slowly inside them. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S35",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Under the crooked ailanthus at dusk. The same young man from the reference images: mid-twenties, clean-shaven, long black hair in a topknot, floor-length slate-grey cross-collar robe with thin cyan circuit lines along the seams lies asleep on his back in the grass among the roots, one arm behind his head, face in profile to camera, eyes closed. A few paces away the same young woman from the reference images: early twenties, snow-pale skin, very long loose black hair, floor-length ice-white silk robe edged with frost-cyan light, barefoot stands in three-quarter profile looking down at him, her robe pale against the dark trunk. Both naturally scaled. Medium wide shot. Cyan light from the buried bronze in the roots washes faintly up the trunk. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  },
+  {
+    "shot": "S36",
+    "model": "MiniMax-H3",
+    "payload": {
+      "prompt": "Extreme wide final shot at last light. The empty plain runs to the horizon; the lone crooked ailanthus stands small at frame right with two tiny figures at its foot, one lying and one standing. High in the sky at frame left the immense dark bird crosses, reduced by distance to a dark shape against the cloud. Everything correctly scaled. Far off along the horizon a line of drowned bronze towers glows faint cyan. Epic mythic cinema, shot on large-format anamorphic, 16:9. Monumental scale: whatever is ancient or divine is rendered colossal, and any human figure is kept small against it. Low horizon, heavy sky, many receding layers of atmospheric perspective. Shafts of volumetric light rake through haze. Deep blacks, controlled highlights, fine 70mm grain, clean optics. Cyberpunk texture throughout: wet reflective surfaces that mirror the light, drifting steam and fine particulate haze, exposed machine substrate under broken material — bundled fibre cabling, conduit, and circuit tracery that glows from inside cracks. Light is layered in depth: glowing detail in the far background, silhouetted mass in the foreground. Chinese classical vocabulary in the physical detail: Warring-States bronze relief of cloud, thunder and coiled-dragon patterns; black-and-vermilion lacquerware; bamboo slips bound with cord; jade discs; bronze chime bells; timber bracket-set joinery and eaves tiles; wide-sleeved cross-collar robes. Two light colours only: cold cyan for everything mechanical, luminous or data-borne, and vermilion cinnabar red for everything human, living and fire-lit. Everything else stays in ash-grey stone, black water and bronze.",
+      "duration": 4,
+      "resolution": "2K",
+      "ratio": "16:9"
+    },
+    "note": "取生成视频的 frame 0 作为该镜关键帧"
+  }
+]

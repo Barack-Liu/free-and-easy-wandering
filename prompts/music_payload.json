@@ -1,0 +1,10 @@
+{
+ "model": "minimax-music-3.0",
+ "payload": {
+  "lyrics": "[Intro]\n[Verse]\n北冥的水底 有一条鱼叫坤 大得望不见边\n海水一动 它就化成鸟叫朋 脊背连着天\n怒而飞 翅膀像垂下的云 遮了半片山\n翅膀拍海面 激起三千里的浪 卷着水汽向南\n它借着旋风盘上九万里 云都落到脚下面\n要等六月的大风起来 才动身南迁\n蒙城漆园的小力庄周 把这件事写在竹简\n[Interlude]\n[Verse]\n蝉和斑鸠在树上笑 说何必飞那么久\n我们一使劲就上了鱼树 落地也不愁\n去千里的备三个月的梁 去郊外的带三顿饭就够\n早上的菌看不见月末 寒蝉一生没见过秋\n冥灵五百年一春一秋 大春八千年一春一秋\n草丛间的小雀也笑 飞几丈高就到头\n小和大的分别 庄周记在心头\n[Interlude]\n[Verse]\n宋荣子听人夸不加劲 听人骂也不冷\n列子踩着风走 十五天回来 还是要等一场风\n尧要把天下让出来 许由不接 请他收回成命\n小鸟做窝只用一枝 眼鼠喝河喝饱就成\n山上住着神人 肌肤像冰雪 身形轻得像风\n她不吃五谷 只吸风喝路 乘云气驾飞龙\n[Chorus]\n至人无己 神人无功 圣人无名\n[Interlude]\n[Verse]\n惠子说 我的葫芦能装五旦水 没处放\n庄子说 何不把它捆在腰上 浮在江湖上\n惠子又说 我有棵臭春 木匠走过它旁\n何不种在空无一人的地方\n在它旁边走 在它下面躺 不慌不忙\n府头不砍它 什么也不伤它 它没有用场\n[Chorus]\n至人无己 神人无功 圣人无名\n至人无己 神人无功 圣人无名\n[Outro]",
+  "prompt": "Chinese guofeng hip-hop track, male rapper in Mandarin. A hard boom-bap drum break and a deep sub bass carry the track; a pipa riff and a sampled xiao flute hook sit on top; light record crackle. Tempo steady at about 88 BPM with a double-time flow, so the words come fast. A four-second instrumental introduction on solo pipa. Three four-second instrumental interludes on the pipa riff alone. The last chorus is half-sung and doubled an octave up. A six-second instrumental ending that drops to the bare drum break. The delivery is rapid, percussive and strictly syllabic, one syllable per beat subdivision, with no held notes, no melisma and no sung tails. The finished track runs two minutes and fifty seconds in total and then stops. The only instrumental passages in the whole song are the five named above; everywhere else the voice is singing. The singer comes back in on the very next bar after each interlude, and no bar of any verse is left without words.",
+  "sample_rate": 44100,
+  "bitrate": 256000,
+  "format": "mp3"
+ }
+}
