@@ -5,7 +5,9 @@ on MiniMax models served through GMI Cloud.
 
 Submitted to **The MiniMaxathon**, track **Multimodality**.
 
-![cover](assets/cover.jpg)
+▶ **Watch it: https://youtu.be/bRb80qnxhEk**
+
+[![cover](assets/cover.jpg)](https://youtu.be/bRb80qnxhEk)
 
 | | |
 |---|---|
